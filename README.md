@@ -30,4 +30,34 @@ Gồm 129880 dòng  và 23 cột
 - Satisfaction: Mức độ hài lòng của hãng hàng không (Hài lòng, trung tính hoặc không hài lòng)
 
 ## Trực quan hóa dữ liệu
+Hài Lòng tổng quát
 
+
+![360069485_619553773615878_1619825348283326697_n](https://github.com/minhduc2672002/DAMI-AIRLINE-PASSENGER-SATISFACTION/assets/133132824/2b3bb2eb-7515-44e8-9006-acf1370e4e14)
+
+
+Ở các dịch vụ
+
+
+![360612257_951352899504631_6463880016881468354_n](https://github.com/minhduc2672002/DAMI-AIRLINE-PASSENGER-SATISFACTION/assets/133132824/4d816327-3184-4b81-85ae-5f6416d7d48b)
+
+
+Theo giới tính
+
+
+![360190058_265464442751062_1164262809065245570_n](https://github.com/minhduc2672002/DAMI-AIRLINE-PASSENGER-SATISFACTION/assets/133132824/9067dfbc-5814-46f7-b789-c2660961be7d)
+
+
+Suốt chuyến bay
+
+![360271635_825685839023134_3624614955438116314_n](https://github.com/minhduc2672002/DAMI-AIRLINE-PASSENGER-SATISFACTION/assets/133132824/dd381adb-16c2-4bf0-8e1f-92bff53a035b)
+
+Theo độ trễ
+
+![361065009_232661645781234_6667782704338562116_n](https://github.com/minhduc2672002/DAMI-AIRLINE-PASSENGER-SATISFACTION/assets/133132824/8593f745-5809-437f-b2cf-c7b34bd4b69f)
+
+## Khai phá dữ liệu sử dung Weka
+* Sử dụng thuật toán cây quyết định J48
+* Sử dụng thuật toán phân cụm K-mean
+* Sử dụng luật kết hợp
+  *Chi tiết xem ở file Report. Xin cảm ơn đã xem!*
