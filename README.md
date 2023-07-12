@@ -60,4 +60,5 @@ Theo độ trễ
 * Sử dụng thuật toán cây quyết định J48
 * Sử dụng thuật toán phân cụm K-mean
 * Sử dụng luật kết hợp
-  *Chi tiết xem ở file Report. Xin cảm ơn đã xem!*
+
+*Chi tiết xem ở file Report. Xin cảm ơn đã xem!*
